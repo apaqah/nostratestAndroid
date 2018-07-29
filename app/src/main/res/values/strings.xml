@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nostratest</string>
+    <string name="number_one">Nomor 1</string>
+    <string name="number_two">Nomor 2</string>
+    <string name="number_three">Nomor 3</string>
+    <string name="sum">Hitung Jumlah</string>
+    <string name="batas_awal">Batas Awal</string>
+    <string name="batas_akhir">Batas Akhir</string>
+    <string name="save">Simpan</string>
+</resources>
